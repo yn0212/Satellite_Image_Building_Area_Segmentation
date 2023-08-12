@@ -13,7 +13,6 @@ SW중심대학 공동 AI 경진대회 2023
 ### 결과 맛보기😜
 ![image](https://github.com/yn0212/Satellite_Image_Building_Area_Segmentation/assets/105347300/f6505440-824b-47da-af17-9e636f7d9629)
 
-##리뷰
 [블로그 정리](https://yn0212.tistory.com/category/AI/ai%20contest)
 
 # :pushpin: EDA
