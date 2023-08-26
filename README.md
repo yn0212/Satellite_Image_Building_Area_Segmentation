@@ -13,7 +13,6 @@ SW중심대학 공동 AI 경진대회 2023
 ### 결과 맛보기😜
 ![image](https://github.com/yn0212/Satellite_Image_Building_Area_Segmentation/assets/105347300/f6505440-824b-47da-af17-9e636f7d9629)
 
-[블로그 정리](https://yn0212.tistory.com/category/AI/ai%20contest)
 
 # :pushpin: EDA
 ## 1.데이터셋 구성 파악: 데이터셋에 포함된 위성 이미지와 해당 이미지에 대한 건물 영역의 마스크 정보를 확인.
